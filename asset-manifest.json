@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Coutcout/static/css/main.cf9bd009.css",
+    "main.js": "/Coutcout/static/js/main.2c817102.js",
+    "static/js/496.01dde87d.chunk.js": "/Coutcout/static/js/496.01dde87d.chunk.js",
+    "static/media/coutcout.png": "/Coutcout/static/media/coutcout.3acab1b631528171ea65.png",
+    "index.html": "/Coutcout/index.html",
+    "main.cf9bd009.css.map": "/Coutcout/static/css/main.cf9bd009.css.map",
+    "main.2c817102.js.map": "/Coutcout/static/js/main.2c817102.js.map",
+    "496.01dde87d.chunk.js.map": "/Coutcout/static/js/496.01dde87d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf9bd009.css",
+    "static/js/main.2c817102.js"
+  ]
+}
