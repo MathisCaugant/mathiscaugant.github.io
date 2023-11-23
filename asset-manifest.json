@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Coutcout/static/css/main.cf9bd009.css",
-    "main.js": "/Coutcout/static/js/main.e5301639.js",
-    "static/js/496.01dde87d.chunk.js": "/Coutcout/static/js/496.01dde87d.chunk.js",
-    "static/media/coutcout.png": "/Coutcout/static/media/coutcout.3acab1b631528171ea65.png",
-    "index.html": "/Coutcout/index.html",
-    "main.cf9bd009.css.map": "/Coutcout/static/css/main.cf9bd009.css.map",
-    "main.e5301639.js.map": "/Coutcout/static/js/main.e5301639.js.map",
-    "496.01dde87d.chunk.js.map": "/Coutcout/static/js/496.01dde87d.chunk.js.map"
+    "main.css": "/coutcout/static/css/main.cf9bd009.css",
+    "main.js": "/coutcout/static/js/main.b09ebfed.js",
+    "static/js/496.01dde87d.chunk.js": "/coutcout/static/js/496.01dde87d.chunk.js",
+    "static/media/coutcout.png": "/coutcout/static/media/coutcout.3acab1b631528171ea65.png",
+    "index.html": "/coutcout/index.html",
+    "main.cf9bd009.css.map": "/coutcout/static/css/main.cf9bd009.css.map",
+    "main.b09ebfed.js.map": "/coutcout/static/js/main.b09ebfed.js.map",
+    "496.01dde87d.chunk.js.map": "/coutcout/static/js/496.01dde87d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf9bd009.css",
-    "static/js/main.e5301639.js"
+    "static/js/main.b09ebfed.js"
   ]
 }
